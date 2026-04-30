@@ -1,9 +1,9 @@
 ---
-tags: [io, block-layer, timeout]
+tags: [swap, memory, io, kernel]
 date: 2026-04-30
 ---
 
-# 盘侧超时机制
+# swap 机制
 
 ## 核心要点
 （待补充）

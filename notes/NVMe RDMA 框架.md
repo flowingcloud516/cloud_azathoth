@@ -1,9 +1,9 @@
 ---
-tags: [io, block-layer, timeout]
+tags: [nvme, rdma, io, kernel]
 date: 2026-04-30
 ---
 
-# 盘侧超时机制
+# NVMe RDMA 框架
 
 ## 核心要点
 （待补充）
