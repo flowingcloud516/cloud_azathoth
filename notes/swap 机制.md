@@ -1,5 +1,6 @@
 ---
 tags: [swap, memory, io, kernel]
+status: ""
 date: 2026-04-30
 ---
 

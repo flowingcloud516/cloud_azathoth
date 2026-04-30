@@ -13,6 +13,7 @@
 
 ## 项目与任务
 - [[五一待办]]
+- [[TODO]]
 
 ## 使用说明
 1. 新笔记放到 `notes/` 目录，使用 `_templates/atomic-note.md` 模板
